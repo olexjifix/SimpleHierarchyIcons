@@ -20,3 +20,8 @@ Hierarchy shows now the icon:
 <img width="447" height="31" alt="image" src="https://github.com/user-attachments/assets/d4badf1c-bd91-45b7-a584-a2fd536a3625" />
 
 Feel free to extend it!
+
+Follow me, when you are curious:
+https://x.com/WhaleTub
+https://bsky.app/profile/whaletub.bsky.social
+https://www.tiktok.com/@whaletubgames
