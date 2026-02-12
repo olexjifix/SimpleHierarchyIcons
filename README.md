@@ -1,4 +1,4 @@
-Just download it from github and import the whole folder "Custom Hierarchy Icons".
+Just download it from github and import the whole folder "Custom Hierarchy Icons" OR go to releases and download the Unity package file for import.
 
 For your scripts, import an Icon with the following settings:
 <img width="542" height="521" alt="image" src="https://github.com/user-attachments/assets/b0bf8cb0-2733-42da-a8c1-887d9eec3c81" />
